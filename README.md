@@ -4,7 +4,7 @@ Swiggy Food Delivery App - Spring Security 6, JWT &amp; RBAC Implementation
 
 # Swiggy Food Delivery App — Spring Security 6, JWT & RBAC Service
 
-A production-ready, stateless authentication and fine-grained Role-Based Access Control (RBAC) security microservice built with **Spring Boot 3.4.2**, **Spring Security 6**, and **JJWT 0.12.6**, modeled upon [Anuj Kumar Sharma's Complete Spring Security Tutorial](https://www.youtube.com/watch?v=ibxPpCVJXNY) and adapted to the **Food-Delivery-App-Swiggy** enterprise architecture.
+A production-ready, stateless authentication and fine-grained Role-Based Access Control (RBAC) security microservice built with **Spring Boot 3.4.2**, **Spring Security 6**, and **JJWT 0.12.6**, modeled upon and adapted to the **Food-Delivery-App-Swiggy** enterprise architecture.
 
 ## Table of Contents
 
